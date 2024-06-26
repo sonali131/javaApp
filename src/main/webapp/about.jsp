@@ -7,6 +7,7 @@
 <title>About Page</title>
 </head>
 <body>
+<h1>Hello java</h1>
 <h1 style="color:blue;">This is about page</h1>
 
 </body>
